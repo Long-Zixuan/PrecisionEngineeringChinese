@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\MOD\\PrecisionEngineering\\PrecisionEngineering-master\\Src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|D:\\MOD\\PrecisionEngineering\\PrecisionEngineering-master\\Src\\precisionengineering\\utilities\\stringutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|solutionrelative:precisionengineering\\utilities\\stringutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|PrecisionEngineering||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|PrecisionEngineering||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|d:\\mod\\precisionengineering\\precisionengineering-master\\src\\precisionengineering\\utilities\\stringutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|solutionrelative:precisionengineering\\utilities\\stringutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|D:\\MOD\\PrecisionEngineering\\PrecisionEngineering-master\\Src\\precisionengineering\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -28,7 +28,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -56,20 +56,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "StringUtil.cs",
               "DocumentMoniker": "D:\\MOD\\PrecisionEngineering\\PrecisionEngineering-master\\Src\\PrecisionEngineering\\Utilities\\StringUtil.cs",
               "RelativeDocumentMoniker": "PrecisionEngineering\\Utilities\\StringUtil.cs",
               "ToolTip": "D:\\MOD\\PrecisionEngineering\\PrecisionEngineering-master\\Src\\PrecisionEngineering\\Utilities\\StringUtil.cs",
               "RelativeToolTip": "PrecisionEngineering\\Utilities\\StringUtil.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAADwv0AAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAADwv04AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T16:03:06.171Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PrecisionEngineering",
               "DocumentMoniker": "D:\\MOD\\PrecisionEngineering\\PrecisionEngineering-master\\Src\\PrecisionEngineering\\PrecisionEngineering.csproj",
               "RelativeDocumentMoniker": "PrecisionEngineering\\PrecisionEngineering.csproj",

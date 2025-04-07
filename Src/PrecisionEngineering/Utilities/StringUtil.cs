@@ -62,7 +62,7 @@ namespace PrecisionEngineering.Utilities
             if (isHeight)
             {
                 // force ft
-                return $"{(meterDistance * 3.28084f).RoundToNearest(1)}ft";
+                return $"{(meterDistance * 3.28084f).RoundToNearest(1)}英尺";
             }
 
             float yardsExact = meterDistance * 1.09361f;

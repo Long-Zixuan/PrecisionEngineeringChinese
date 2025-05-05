@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 
-[assembly: AssemblyTitle("Precision Engineering")]
+[assembly: AssemblyTitle("Precision Engineering简体中文版")]
 [assembly: AssemblyDescription("A mod for cities skyline")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("LoongLy Software")]
-[assembly: AssemblyProduct("Precision Engineering")]
+[assembly: AssemblyProduct("精密建造（Precision Engineering）简体中文版")]
 [assembly: AssemblyCopyright("Copyright ©LoongLy Software 2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

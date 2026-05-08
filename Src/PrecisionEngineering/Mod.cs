@@ -31,7 +31,7 @@ namespace PrecisionEngineering
             group.AddDropdown(I18n.Trans("option.jiliangdanwei"), opt2, (int)ModSettings.Unit,
                 OnMeasurementUnitChanged);
 
-            group.AddDropdown("🌐", languages, (int)ModSettings.LanguageCode, OnLanguageChanged);
+            group.AddDropdown(I18n.Trans("option.yuyan"), languages, (int)ModSettings.LanguageCode, OnLanguageChanged);
         }
 
         private void OnMeasurementUnitChanged(int sel)

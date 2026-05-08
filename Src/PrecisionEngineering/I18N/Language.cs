@@ -23,7 +23,8 @@ namespace PrecisionEngineering.I18N
             { "option.teda","特大" },
             { "option.jiliangdanwei","计量单位"},
             { "option.yingzhi","英制" },
-            { "option.gongzhi","公制" }
+            { "option.gongzhi","公制" },
+            { "option.yuyan","语言（Language）" }
 
         };
 
@@ -42,7 +43,8 @@ namespace PrecisionEngineering.I18N
             { "option.teda","特大" },
             { "option.jiliangdanwei","計量單位"},
             { "option.yingzhi","英制" },
-            { "option.gongzhi","公制" }
+            { "option.gongzhi","公制" },
+            { "option.yuyan","語言（Language）" }
 
         };
 
@@ -61,7 +63,8 @@ namespace PrecisionEngineering.I18N
             { "option.teda","特大" },
             { "option.jiliangdanwei","計量單位"},
             { "option.yingzhi","英制" },
-            { "option.gongzhi","公制" }
+            { "option.gongzhi","公制" },
+            { "option.yuyan","語言（Language）" }
         };
 
         readonly static Dictionary<string, string> EN_US = new Dictionary<string, string>{
@@ -79,7 +82,8 @@ namespace PrecisionEngineering.I18N
             { "option.teda","Extra Large" },
             { "option.jiliangdanwei","Unit"},
             { "option.yingzhi","English" },
-            { "option.gongzhi","Metric" }
+            { "option.gongzhi","Metric" },
+            { "option.yuyan","Language" }
         };
 
         readonly static Dictionary<ModSettings.Languages, Dictionary<string, string>> LANGUAGE = new Dictionary<ModSettings.Languages, Dictionary<string, string>>

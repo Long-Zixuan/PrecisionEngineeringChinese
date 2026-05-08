@@ -3,17 +3,6 @@
   "WorkspaceRootPath": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|PrecisionEngineering||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|d:\\mc_mod\\precisionengineeringchinese\\src\\precisionengineering\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|solutionrelative:precisionengineering\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\precisionengineering\\utilities\\stringutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|solutionrelative:precisionengineering\\utilities\\stringutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\precisionengineering\\mod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|solutionrelative:precisionengineering\\mod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,44 +11,51 @@
       "RelativeMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|solutionrelative:precisionengineering\\modsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\precisionengineering\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|solutionrelative:precisionengineering\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\precisionengineering\\utilities\\stringutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|solutionrelative:precisionengineering\\utilities\\stringutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\precisionengineering\\i18n\\i18n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|solutionrelative:precisionengineering\\i18n\\i18n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|d:\\mc_mod\\precisionengineeringchinese\\src\\precisionengineering\\data\\measurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|solutionrelative:precisionengineering\\data\\measurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|d:\\mc_mod\\precisionengineeringchinese\\src\\precisionengineering\\data\\nettoollocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|solutionrelative:precisionengineering\\data\\nettoollocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|d:\\mc_mod\\precisionengineeringchinese\\src\\precisionengineering\\data\\nettoolproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|solutionrelative:precisionengineering\\data\\nettoolproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|d:\\mc_mod\\precisionengineeringchinese\\src\\precisionengineering\\data\\precisioncalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|solutionrelative:precisionengineering\\data\\precisioncalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|d:\\mc_mod\\precisionengineeringchinese\\src\\precisionengineering\\data\\guideline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|solutionrelative:precisionengineering\\data\\guideline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|d:\\mc_mod\\precisionengineeringchinese\\src\\precisionengineering\\data\\distancemeasurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|solutionrelative:precisionengineering\\data\\distancemeasurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|d:\\mc_mod\\precisionengineeringchinese\\src\\precisionengineering\\data\\anglemeasurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|solutionrelative:precisionengineering\\data\\anglemeasurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\precisionengineering\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|solutionrelative:precisionengineering\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\precisionengineering\\i18n\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|solutionrelative:precisionengineering\\i18n\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|PrecisionEngineering||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\precisionengineering\\data\\measurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|solutionrelative:precisionengineering\\data\\measurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\precisionengineering\\data\\nettoollocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|solutionrelative:precisionengineering\\data\\nettoollocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\precisionengineering\\data\\nettoolproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|solutionrelative:precisionengineering\\data\\nettoolproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\precisionengineering\\data\\precisioncalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|solutionrelative:precisionengineering\\data\\precisioncalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\precisionengineering\\data\\guideline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|solutionrelative:precisionengineering\\data\\guideline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\precisionengineering\\data\\distancemeasurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|solutionrelative:precisionengineering\\data\\distancemeasurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\precisionengineering\\data\\anglemeasurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|solutionrelative:precisionengineering\\data\\anglemeasurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C27473C2-C635-4945-BD62-3D96C9A5DA26}|PrecisionEngineering\\PrecisionEngineering.csproj|D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\precisionengineering\\utilities\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -104,7 +100,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 21,
           "Children": [
             {
               "$type": "Bookmark",
@@ -112,124 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "PrecisionCalculator.cs",
-              "DocumentMoniker": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Data\\PrecisionCalculator.cs",
-              "RelativeDocumentMoniker": "PrecisionEngineering\\Data\\PrecisionCalculator.cs",
-              "ToolTip": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Data\\PrecisionCalculator.cs",
-              "RelativeToolTip": "PrecisionEngineering\\Data\\PrecisionCalculator.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAADwvwYAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T06:00:45.28Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "NetToolProxy.cs",
-              "DocumentMoniker": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Data\\NetToolProxy.cs",
-              "RelativeDocumentMoniker": "PrecisionEngineering\\Data\\NetToolProxy.cs",
-              "ToolTip": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Data\\NetToolProxy.cs",
-              "RelativeToolTip": "PrecisionEngineering\\Data\\NetToolProxy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T06:00:42.053Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "NetToolLocator.cs",
-              "DocumentMoniker": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Data\\NetToolLocator.cs",
-              "RelativeDocumentMoniker": "PrecisionEngineering\\Data\\NetToolLocator.cs",
-              "ToolTip": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Data\\NetToolLocator.cs",
-              "RelativeToolTip": "PrecisionEngineering\\Data\\NetToolLocator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T06:00:20.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Measurement.cs",
-              "DocumentMoniker": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Data\\Measurement.cs",
-              "RelativeDocumentMoniker": "PrecisionEngineering\\Data\\Measurement.cs",
-              "ToolTip": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Data\\Measurement.cs",
-              "RelativeToolTip": "PrecisionEngineering\\Data\\Measurement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T05:59:54.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "GuideLine.cs",
-              "DocumentMoniker": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Data\\GuideLine.cs",
-              "RelativeDocumentMoniker": "PrecisionEngineering\\Data\\GuideLine.cs",
-              "ToolTip": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Data\\GuideLine.cs",
-              "RelativeToolTip": "PrecisionEngineering\\Data\\GuideLine.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T05:59:53.311Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DistanceMeasurement.cs",
-              "DocumentMoniker": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Data\\DistanceMeasurement.cs",
-              "RelativeDocumentMoniker": "PrecisionEngineering\\Data\\DistanceMeasurement.cs",
-              "ToolTip": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Data\\DistanceMeasurement.cs",
-              "RelativeToolTip": "PrecisionEngineering\\Data\\DistanceMeasurement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T05:59:52.231Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AngleMeasurement.cs",
-              "DocumentMoniker": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Data\\AngleMeasurement.cs",
-              "RelativeDocumentMoniker": "PrecisionEngineering\\Data\\AngleMeasurement.cs",
-              "ToolTip": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Data\\AngleMeasurement.cs",
-              "RelativeToolTip": "PrecisionEngineering\\Data\\AngleMeasurement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T05:59:49.951Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Manager.cs",
-              "DocumentMoniker": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Manager.cs",
-              "RelativeDocumentMoniker": "PrecisionEngineering\\Manager.cs",
-              "ToolTip": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Manager.cs",
-              "RelativeToolTip": "PrecisionEngineering\\Manager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T01:42:20.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Properties\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "PrecisionEngineering\\Properties\\AssemblyInfo.cs",
-              "ToolTip": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Properties\\AssemblyInfo.cs",
-              "RelativeToolTip": "PrecisionEngineering\\Properties\\AssemblyInfo.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T02:52:39.706Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "PrecisionEngineering",
               "DocumentMoniker": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\PrecisionEngineering.csproj",
               "RelativeDocumentMoniker": "PrecisionEngineering\\PrecisionEngineering.csproj",
@@ -241,7 +120,116 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 10,
+              "Title": "PrecisionCalculator.cs",
+              "DocumentMoniker": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Data\\PrecisionCalculator.cs",
+              "RelativeDocumentMoniker": "PrecisionEngineering\\Data\\PrecisionCalculator.cs",
+              "ToolTip": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Data\\PrecisionCalculator.cs",
+              "RelativeToolTip": "PrecisionEngineering\\Data\\PrecisionCalculator.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwvwYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T06:00:45.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NetToolProxy.cs",
+              "DocumentMoniker": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Data\\NetToolProxy.cs",
+              "RelativeDocumentMoniker": "PrecisionEngineering\\Data\\NetToolProxy.cs",
+              "ToolTip": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Data\\NetToolProxy.cs",
+              "RelativeToolTip": "PrecisionEngineering\\Data\\NetToolProxy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T06:00:42.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NetToolLocator.cs",
+              "DocumentMoniker": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Data\\NetToolLocator.cs",
+              "RelativeDocumentMoniker": "PrecisionEngineering\\Data\\NetToolLocator.cs",
+              "ToolTip": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Data\\NetToolLocator.cs",
+              "RelativeToolTip": "PrecisionEngineering\\Data\\NetToolLocator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T06:00:20.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Measurement.cs",
+              "DocumentMoniker": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Data\\Measurement.cs",
+              "RelativeDocumentMoniker": "PrecisionEngineering\\Data\\Measurement.cs",
+              "ToolTip": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Data\\Measurement.cs",
+              "RelativeToolTip": "PrecisionEngineering\\Data\\Measurement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T05:59:54.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GuideLine.cs",
+              "DocumentMoniker": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Data\\GuideLine.cs",
+              "RelativeDocumentMoniker": "PrecisionEngineering\\Data\\GuideLine.cs",
+              "ToolTip": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Data\\GuideLine.cs",
+              "RelativeToolTip": "PrecisionEngineering\\Data\\GuideLine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T05:59:53.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DistanceMeasurement.cs",
+              "DocumentMoniker": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Data\\DistanceMeasurement.cs",
+              "RelativeDocumentMoniker": "PrecisionEngineering\\Data\\DistanceMeasurement.cs",
+              "ToolTip": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Data\\DistanceMeasurement.cs",
+              "RelativeToolTip": "PrecisionEngineering\\Data\\DistanceMeasurement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T05:59:52.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AngleMeasurement.cs",
+              "DocumentMoniker": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Data\\AngleMeasurement.cs",
+              "RelativeDocumentMoniker": "PrecisionEngineering\\Data\\AngleMeasurement.cs",
+              "ToolTip": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Data\\AngleMeasurement.cs",
+              "RelativeToolTip": "PrecisionEngineering\\Data\\AngleMeasurement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T05:59:49.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Manager.cs",
+              "RelativeDocumentMoniker": "PrecisionEngineering\\Manager.cs",
+              "ToolTip": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Manager.cs",
+              "RelativeToolTip": "PrecisionEngineering\\Manager.cs",
+              "ViewState": "AgIAANgAAAAAAAAAAAAAAOsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T01:42:20.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "PrecisionEngineering\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "PrecisionEngineering\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T02:52:39.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "DebugUI.cs",
               "DocumentMoniker": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\UI\\DebugUI.cs",
               "RelativeDocumentMoniker": "PrecisionEngineering\\UI\\DebugUI.cs",
@@ -253,7 +241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "Util.cs",
               "DocumentMoniker": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Utilities\\Util.cs",
               "RelativeDocumentMoniker": "PrecisionEngineering\\Utilities\\Util.cs",
@@ -265,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "NetNodeUtility.cs",
               "DocumentMoniker": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Utilities\\NetNodeUtility.cs",
               "RelativeDocumentMoniker": "PrecisionEngineering\\Utilities\\NetNodeUtility.cs",
@@ -277,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "BezierUtil.cs",
               "DocumentMoniker": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Utilities\\BezierUtil.cs",
               "RelativeDocumentMoniker": "PrecisionEngineering\\Utilities\\BezierUtil.cs",
@@ -289,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "NetUtil.cs",
               "DocumentMoniker": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Utilities\\NetUtil.cs",
               "RelativeDocumentMoniker": "PrecisionEngineering\\Utilities\\NetUtil.cs",
@@ -307,14 +295,14 @@
               "RelativeDocumentMoniker": "PrecisionEngineering\\Utilities\\StringUtil.cs",
               "ToolTip": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Utilities\\StringUtil.cs",
               "RelativeToolTip": "PrecisionEngineering\\Utilities\\StringUtil.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-08T01:58:57.377Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 5,
               "Title": "Language.cs",
               "DocumentMoniker": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\I18N\\Language.cs",
               "RelativeDocumentMoniker": "PrecisionEngineering\\I18N\\Language.cs",
@@ -322,24 +310,25 @@
               "RelativeToolTip": "PrecisionEngineering\\I18N\\Language.cs",
               "ViewState": "AgIAADYAAAAAAAAAAAAAAEQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T01:49:43.074Z"
+              "WhenOpened": "2026-05-08T01:49:43.074Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "I18n.cs",
               "DocumentMoniker": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\I18N\\I18n.cs",
               "RelativeDocumentMoniker": "PrecisionEngineering\\I18N\\I18n.cs",
               "ToolTip": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\I18N\\I18n.cs",
               "RelativeToolTip": "PrecisionEngineering\\I18N\\I18n.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAApwBQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-08T01:49:15.942Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "Debug.cs",
               "DocumentMoniker": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Debug.cs",
               "RelativeDocumentMoniker": "PrecisionEngineering\\Debug.cs",
@@ -351,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "LoadingExtension.cs",
               "DocumentMoniker": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\LoadingExtension.cs",
               "RelativeDocumentMoniker": "PrecisionEngineering\\LoadingExtension.cs",
@@ -363,41 +352,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Mod.cs",
               "DocumentMoniker": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Mod.cs",
               "RelativeDocumentMoniker": "PrecisionEngineering\\Mod.cs",
               "ToolTip": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Mod.cs",
               "RelativeToolTip": "PrecisionEngineering\\Mod.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-08T01:42:05.929Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "ModSettings.cs",
               "DocumentMoniker": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\ModSettings.cs",
               "RelativeDocumentMoniker": "PrecisionEngineering\\ModSettings.cs",
               "ToolTip": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\ModSettings.cs",
               "RelativeToolTip": "PrecisionEngineering\\ModSettings.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAASwE8AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAASwE8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-08T01:41:58.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Settings.cs",
-              "DocumentMoniker": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Settings.cs",
-              "RelativeDocumentMoniker": "PrecisionEngineering\\Settings.cs",
-              "ToolTip": "D:\\MC_MOD\\PrecisionEngineeringChinese\\Src\\PrecisionEngineering\\Settings.cs",
-              "RelativeToolTip": "PrecisionEngineering\\Settings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T01:41:42.902Z",
               "EditorCaption": ""
             },
             {

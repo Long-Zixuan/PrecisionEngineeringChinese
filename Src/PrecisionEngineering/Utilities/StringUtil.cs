@@ -27,17 +27,17 @@ namespace PrecisionEngineering.Utilities
 
             if (!highPrecision)
             {
-                return string.Format(I18n.Trans("unit.ge"), u);
+                return I18n.Trans("unit.ge", u);
                 //return $"{u:#}格";
             }
 
             switch (ModSettings.Unit)
             {
                 case ModSettings.Units.Metric:
-                    return string.Format(I18n.Trans("unit.ge_mi"), u, (int) distance.RoundToNearest(1));
+                    return I18n.Trans("unit.ge_mi", u, (int) distance.RoundToNearest(1));
                     //return $"{u:#}格 ({(int) distance.RoundToNearest(1):#}米)";
                 case ModSettings.Units.Imperial:
-                    return string.Format(I18n.Trans("unit.ge"),u) + $" ({GetImperial(distance, false)})";
+                    return I18n.Trans("unit.ge",u) + $" ({GetImperial(distance, false)})";
                     //return $"{u:#}格 ({GetImperial(distance, false)})";
             }
 
@@ -49,7 +49,7 @@ namespace PrecisionEngineering.Utilities
             switch (ModSettings.Unit)
             {
                 case ModSettings.Units.Metric:
-                    return string.Format(I18n.Trans("unit.mi"), (int)height.RoundToNearest(1));
+                    return I18n.Trans("unit.mi", (int)height.RoundToNearest(1));
                     //return $"{(int) height.RoundToNearest(1):#}米";
                 case ModSettings.Units.Imperial:
                     return $"{GetImperial(height, true)}";
@@ -69,7 +69,7 @@ namespace PrecisionEngineering.Utilities
             if (isHeight)
             {
                 // force ft
-                return string.Format(I18n.Trans("unit.yinchi"), (meterDistance * 3.28084f).RoundToNearest(1));
+                return I18n.Trans("unit.yinchi", (meterDistance * 3.28084f).RoundToNearest(1));
                 //return $"{(meterDistance * 3.28084f).RoundToNearest(1)}英尺";
             }
 
@@ -81,10 +81,10 @@ namespace PrecisionEngineering.Utilities
 
             if (feet > 0)
             {
-                return string.Format(I18n.Trans("unit.ma_yinchi"), yards, feet);
+                return I18n.Trans("unit.ma_yinchi", yards, feet);
                 //return $"{yards}码 {feet}英尺";
             }
-            return string.Format(I18n.Trans("unit.ma"), yards);
+            return I18n.Trans("unit.ma", yards);
             //return $"{yards}码";
         }
     }

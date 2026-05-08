@@ -18,15 +18,15 @@ namespace PrecisionEngineering.I18N
             curLanguage = Language.getLanguage(languageName);
         }
 
-        public static string Trans(string key) 
+        public static string Trans(string key, params object[] args) 
         {
             if (curLanguage.ContainsKey(key))
             {
-                return curLanguage[key];
+                return string.Format(curLanguage[key],args);
             }
             if (EN_US_LANGUAGE.ContainsKey(key))
             {
-                return EN_US_LANGUAGE[key];
+                return string.Format(EN_US_LANGUAGE[key],args);
             }
             return key;
         }

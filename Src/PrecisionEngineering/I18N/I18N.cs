@@ -6,7 +6,7 @@ using System.Globalization;
 
 namespace PrecisionEngineering.I18N
 {
-    internal class I18N
+    internal class I18n
     {
         static ModSettings.Languages languageName = ModSettings.LanguageCode;
         static Dictionary<string, string> curLanguage = Language.getLanguage(languageName);

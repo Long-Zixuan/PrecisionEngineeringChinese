@@ -2,10 +2,12 @@
 using ColossalFramework.UI;
 using PrecisionEngineering.Data;
 using PrecisionEngineering.Detour;
+using PrecisionEngineering.I18N;
 using PrecisionEngineering.Rendering;
 using PrecisionEngineering.UI;
 using PrecisionEngineering.Utilities;
 using UnityEngine;
+//using I18n = PrecisionEngineering.I18N.I18n;
 
 namespace PrecisionEngineering
 {
@@ -219,7 +221,7 @@ namespace PrecisionEngineering
 
                 if ((dm.Flags & MeasurementFlags.Height) != 0)
                 {
-                    dist = string.Format(I18N.I18N.Trans("unit.gao"), StringUtil.GetHeightMeasurementString(dm.Length));
+                    dist = string.Format(I18n.Trans("unit.gao"), StringUtil.GetHeightMeasurementString(dm.Length));
                 }
                 else
                 {
@@ -231,7 +233,7 @@ namespace PrecisionEngineering
 
                         if (Mathf.Abs(heightdiff) > 0)
                         {
-                            dist += "\n(" + string.Format(I18N.I18N.Trans("unit.gaocheng"), StringUtil.GetHeightMeasurementString(heightdiff)) + ")";
+                            dist += "\n(" + string.Format(I18n.Trans("unit.gaocheng"), StringUtil.GetHeightMeasurementString(heightdiff)) + ")";
                         }
                     }
                 }

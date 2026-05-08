@@ -1,5 +1,7 @@
 ﻿using System;
 using ICities;
+//using I18n = PrecisionEngineering.I18N.I18n;
+using PrecisionEngineering.I18N;
 
 namespace PrecisionEngineering
 {
@@ -22,11 +24,11 @@ namespace PrecisionEngineering
         public void OnSettingsUI(UIHelperBase helper)
         {
             var group = helper.AddGroup("UI");
-            var opt1 = new[] { I18N.I18N.Trans("option.changui"), I18N.I18N.Trans("option.da"), I18N.I18N.Trans("option.teda") };
-            group.AddDropdown(I18N.I18N.Trans("option.zitidaxiao"), opt1, ModSettings.FontSize,
+            var opt1 = new[] { I18n.Trans("option.changui"), I18n.Trans("option.da"), I18n.Trans("option.teda") };
+            group.AddDropdown(I18n.Trans("option.zitidaxiao"), opt1, ModSettings.FontSize,
                 OnFontSizeChanged); 
-            var opt2 = new[] { I18N.I18N.Trans("option.gongzhi"), I18N.I18N.Trans("option.yingzhi") };
-            group.AddDropdown(I18N.I18N.Trans("option.jiliangdanwei"), opt2, (int)ModSettings.Unit,
+            var opt2 = new[] { I18n.Trans("option.gongzhi"), I18n.Trans("option.yingzhi") };
+            group.AddDropdown(I18n.Trans("option.jiliangdanwei"), opt2, (int)ModSettings.Unit,
                 OnMeasurementUnitChanged);
 
             group.AddDropdown("🌐", languages, (int)ModSettings.LanguageCode, OnLanguageChanged);
@@ -47,7 +49,7 @@ namespace PrecisionEngineering
         private void OnLanguageChanged(int val)
         {
             ModSettings.LanguageCode = (ModSettings.Languages)val;
-            I18N.I18N.SetLanguage(ModSettings.LanguageCode);
+            I18N.I18n.SetLanguage(ModSettings.LanguageCode);
         }
     }
 }

@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("LoongLy Software")]
 [assembly: AssemblyProduct("精密建造（Precision Engineering）汉化版")]
-[assembly: AssemblyCopyright("Copyright ©LoongLy Software 2025")]
+[assembly: AssemblyCopyright("Copyright ©LoongLy Software 2026")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

@@ -66,6 +66,8 @@
     <Compile Include="Data\Measurement.cs" />
     <Compile Include="Detour\AltKeyFix.cs" />
     <Compile Include="Detour\FakeRoadAI.cs" />
+    <Compile Include="I18N\I18N.cs" />
+    <Compile Include="I18N\Language.cs" />
     <Compile Include="ModSettings.cs" />
     <Compile Include="Rendering\DistanceRenderer.cs" />
     <Compile Include="Rendering\GuideLineRenderer.cs" />

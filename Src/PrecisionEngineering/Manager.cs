@@ -219,7 +219,7 @@ namespace PrecisionEngineering
 
                 if ((dm.Flags & MeasurementFlags.Height) != 0)
                 {
-                    dist = string.Format("H: {0}", StringUtil.GetHeightMeasurementString(dm.Length));
+                    dist = string.Format(I18N.I18N.Trans("unit.gao"), StringUtil.GetHeightMeasurementString(dm.Length));
                 }
                 else
                 {
@@ -231,7 +231,7 @@ namespace PrecisionEngineering
 
                         if (Mathf.Abs(heightdiff) > 0)
                         {
-                            dist += string.Format("\n(高程: {0})", StringUtil.GetHeightMeasurementString(heightdiff));
+                            dist += "\n(" + string.Format(I18N.I18N.Trans("unit.gaocheng"), StringUtil.GetHeightMeasurementString(heightdiff)) + ")";
                         }
                     }
                 }

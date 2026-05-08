@@ -24,15 +24,18 @@ namespace PrecisionEngineering.Utilities
 
             if (!highPrecision)
             {
-                return $"{u:#}格";
+                return string.Format(I18N.I18N.Trans("unit.ge"), u);
+                //return $"{u:#}格";
             }
 
             switch (ModSettings.Unit)
             {
                 case ModSettings.Units.Metric:
-                    return $"{u:#}格 ({(int) distance.RoundToNearest(1):#}米)";
+                    return string.Format(I18N.I18N.Trans("unit.ge_mi"), u, (int) distance.RoundToNearest(1));
+                    //return $"{u:#}格 ({(int) distance.RoundToNearest(1):#}米)";
                 case ModSettings.Units.Imperial:
-                    return $"{u:#}格 ({GetImperial(distance, false)})";
+                    return string.Format(I18N.I18N.Trans("unit.ge"),u) + $" ({GetImperial(distance, false)})";
+                    //return $"{u:#}格 ({GetImperial(distance, false)})";
             }
 
             throw new NotImplementedException("Unknown unit");
@@ -43,7 +46,8 @@ namespace PrecisionEngineering.Utilities
             switch (ModSettings.Unit)
             {
                 case ModSettings.Units.Metric:
-                    return $"{(int) height.RoundToNearest(1):#}米";
+                    return string.Format(I18N.I18N.Trans("unit.mi"), (int)height.RoundToNearest(1));
+                    //return $"{(int) height.RoundToNearest(1):#}米";
                 case ModSettings.Units.Imperial:
                     return $"{GetImperial(height, true)}";
             }
@@ -62,7 +66,8 @@ namespace PrecisionEngineering.Utilities
             if (isHeight)
             {
                 // force ft
-                return $"{(meterDistance * 3.28084f).RoundToNearest(1)}英尺";
+                return string.Format(I18N.I18N.Trans("unit.yinchi"), (meterDistance * 3.28084f).RoundToNearest(1));
+                //return $"{(meterDistance * 3.28084f).RoundToNearest(1)}英尺";
             }
 
             float yardsExact = meterDistance * 1.09361f;
@@ -73,10 +78,11 @@ namespace PrecisionEngineering.Utilities
 
             if (feet > 0)
             {
-                return $"{yards}码 {feet}英尺";
+                return string.Format(I18N.I18N.Trans("unit.ma_yinchi"), yards, feet);
+                //return $"{yards}码 {feet}英尺";
             }
-
-            return $"{yards}码";
+            return string.Format(I18N.I18N.Trans("unit.ma"), yards);
+            //return $"{yards}码";
         }
     }
 }

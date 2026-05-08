@@ -58,7 +58,37 @@ namespace PrecisionEngineering
             }
         }
 
+        public enum Languages
+        {
+            zh_CN,
+            zh_TW,
+            zh_HK,
+            en_US,
+        }
+
+        public static Languages LanguageCode
+        {
+            get
+            {
+                if(!_languageCode.HasValue)
+                {
+                    _languageCode = (Languages)PlayerPrefs.GetInt("PE_LANGUAGE_CODE", 0);
+                }
+                return _languageCode.Value;
+            }
+            set
+            {
+                if(value == _languageCode)
+                {
+                    return;
+                }
+                _languageCode = value;
+                PlayerPrefs.SetInt("PE_LANGUAGE_CODE", (int)value);
+            }
+        }
+
         private static Units? _unit;
         private static int? _fontSize;
+        private static Languages? _languageCode;
     }
 }

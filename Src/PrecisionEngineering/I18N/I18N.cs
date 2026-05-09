@@ -3,16 +3,17 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Globalization;
+using LangCode = PrecisionEngineering.ModSettings.Languages;
 
 namespace PrecisionEngineering.I18N
 {
     internal class I18n
     {
-        static ModSettings.Languages languageName = ModSettings.LanguageCode;
+        static LangCode languageName = ModSettings.LanguageCode;
         static Dictionary<string, string> curLanguage = Language.getLanguage(languageName);
-        static Dictionary<string, string> EN_US_LANGUAGE = Language.getLanguage(ModSettings.Languages.en_US);
+        static Dictionary<string, string> EN_US_LANGUAGE = Language.getLanguage(LangCode.en_US);
 
-        public static void SetLanguage(ModSettings.Languages lanCode) 
+        public static void SetLanguage(LangCode lanCode) 
         {
             languageName = lanCode; 
             curLanguage = Language.getLanguage(languageName);

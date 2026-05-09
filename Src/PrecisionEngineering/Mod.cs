@@ -2,6 +2,7 @@
 using ICities;
 //using I18n = PrecisionEngineering.I18N.I18n;
 using PrecisionEngineering.I18N;
+using LangCode = PrecisionEngineering.ModSettings.Languages;
 
 namespace PrecisionEngineering
 {
@@ -48,7 +49,7 @@ namespace PrecisionEngineering
 
         private void OnLanguageChanged(int val)
         {
-            ModSettings.LanguageCode = (ModSettings.Languages)val;
+            ModSettings.LanguageCode = (LangCode)val;
             I18N.I18n.SetLanguage(ModSettings.LanguageCode);
         }
     }

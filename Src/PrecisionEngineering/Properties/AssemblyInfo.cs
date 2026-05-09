@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 
-[assembly: AssemblyTitle("Precision Engineering汉化版")]
+[assembly: AssemblyTitle("Precision Engineering Chinese Edtion")]
 [assembly: AssemblyDescription("A mod for cities skyline")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("LoongLy Software")]
@@ -35,5 +35,5 @@ using System.Runtime.InteropServices;
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
 
-[assembly: AssemblyVersion("2.2.0.0")]
-[assembly: AssemblyFileVersion("2.2.0.0")]
+[assembly: AssemblyVersion("2.2.1.0")]
+[assembly: AssemblyFileVersion("2.2.1.0")]

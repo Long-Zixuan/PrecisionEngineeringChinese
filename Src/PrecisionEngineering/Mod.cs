@@ -32,7 +32,8 @@ namespace PrecisionEngineering
             group.AddDropdown(I18n.Trans("option.jiliangdanwei"), opt2, (int)ModSettings.Unit,
                 OnMeasurementUnitChanged);
 
-            group.AddDropdown(I18n.Trans("option.yuyan"), languages, (int)ModSettings.LanguageCode, OnLanguageChanged);
+            group.AddDropdown(I18n.Trans("option.yuyan"), ModSettings.LangCodeOpt, (int)ModSettings.LanguageCode, 
+                OnLanguageChanged);
         }
 
         private void OnMeasurementUnitChanged(int sel)
@@ -44,8 +45,6 @@ namespace PrecisionEngineering
         {
             ModSettings.FontSize = val;
         }
-
-        private readonly string[] languages = { "简体中文(中国大陆)", "繁體中文(台湾地区)", "繁體中文(香港特区)", "English(US)" };
 
         private void OnLanguageChanged(int val)
         {

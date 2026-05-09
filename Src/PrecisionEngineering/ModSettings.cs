@@ -66,6 +66,21 @@ namespace PrecisionEngineering
             en_US,
         }
 
+        static public string[] LangCodeOpt
+        {
+            get
+            {
+                int count = Enum.GetValues(typeof(Languages)).Length;
+
+                string[] languages = new string[count];
+                languages[(int)Languages.zh_CN] = "简体中文(中国大陆)";
+                languages[(int)Languages.zh_TW] = "繁體中文(台湾地区)";
+                languages[(int)Languages.zh_HK] = "繁體中文(香港特区)";
+                languages[(int)Languages.en_US] = "English(US)";
+                return languages;
+            }
+        }
+
         public static Languages LanguageCode
         {
             get

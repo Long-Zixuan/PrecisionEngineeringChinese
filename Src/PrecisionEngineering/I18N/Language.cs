@@ -1,14 +1,18 @@
-﻿using System;
+﻿using PrecisionEngineering.I18N;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using Lang = System.Collections.Generic.Dictionary<string, string>;
 
 namespace PrecisionEngineering.I18N
 {
+    //using Lang = Dictionary<string, string>;
     internal class Language
     {
 
-        readonly static Dictionary<string, string> ZH_CN = new Dictionary<string, string>{
+        readonly static Lang ZH_CN = new Lang
+        {
             { "unit.gaocheng","高程: {0}" },
             { "unit.gao","高: {0}" },
             { "unit.ge_mi","{0:#}格 ({1:#}米)" },
@@ -28,7 +32,8 @@ namespace PrecisionEngineering.I18N
 
         };
 
-        readonly static Dictionary<string, string> ZH_TW = new Dictionary<string, string>{
+        readonly static Lang ZH_TW = new Lang
+        {
             { "unit.gaocheng","高程: {0}" },
             { "unit.gao","高: {0}" },
             { "unit.ge_mi","{0:#}格 ({1:#}米)" },
@@ -48,7 +53,8 @@ namespace PrecisionEngineering.I18N
 
         };
 
-        readonly static Dictionary<string, string> ZH_HK = new Dictionary<string, string>{
+        readonly static Lang ZH_HK = new Lang
+        {
             { "unit.gaocheng","高程: {0}" },
             { "unit.gao","高: {0}" },
             { "unit.ge_mi","{0:#}格 ({1:#}米)" },
@@ -67,7 +73,8 @@ namespace PrecisionEngineering.I18N
             { "option.yuyan","語言（Language）" }
         };
 
-        readonly static Dictionary<string, string> EN_US = new Dictionary<string, string>{
+        readonly static Lang EN_US = new Lang
+        {
             { "unit.gaocheng","Elevation: {0}" },
             { "unit.gao","H: {0}" },
             { "unit.ge_mi","{0:#}u ({1:#} meter)" },

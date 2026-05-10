@@ -81,6 +81,21 @@ namespace PrecisionEngineering
             }
         }
 
+        static public string[] LangCode2Str
+        {
+            get
+            {
+                int count = Enum.GetValues(typeof(Languages)).Length;
+
+                string[] languages = new string[count];
+                languages[(int)Languages.zh_CN] = "zh-CN";
+                languages[(int)Languages.zh_TW] = "zh-TW";
+                languages[(int)Languages.zh_HK] = "zh-HK";
+                languages[(int)Languages.en_US] = "en-US";
+                return languages;
+            }
+        }
+
         public static Languages LanguageCode
         {
             get
